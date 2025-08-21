@@ -57,7 +57,7 @@ Columns Used:
 
    * Top 10 Movies by Rating
 
-   * Top 10 Movie With Lowest Votes
+   * Bottom 10 Movies by Votes
 
    * Movies By Certification
 
@@ -79,11 +79,11 @@ Columns Used:
 ## 🔑 Key Insights
 *  Highest Rated Movie: The Shawshank Redemption.
 
-*  Lowest Votes Movie: To Be or Not to Be.
+*  Lowest Voted Movie: To Be or Not to Be.
 
 *  Most Common Certificate: R dominates movie counts.
 
-*  Votes vs Ratings: Popular movies with best ratings don’t always get highest votes.
+*  Votes vs Ratings: Movies with the highest ratings don’t always receive the most votes, indicating quality doesn’t always equal popularity.
 
 *  Average Duration : 132 minutes
 
@@ -109,4 +109,6 @@ Columns Used:
 *  LinkedIn: [Santosh Kumar Sahu](https://www.linkedin.com/in/santosh-kumar-sahu-data-analyst)
 
 *  Mail: [santosh kumar sahu](santosh96736@gmail.com)
+
+*  GitHub Repository: [IMDb_Top_250_Movies](https://github.com/Santosh96736/IMDb_Top_250_Movies)
 
