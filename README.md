@@ -6,7 +6,7 @@ In this project, I scraped data from IMDb, cleaned and transformed it using Exce
 
 The goal is to demonstrate data collection, transformation, and visualization skills for extracting meaningful business insights.
 
-
+  
 ## 🎯 Project Objectives
 * Scrape real-world IMDb movie data.
 
@@ -18,7 +18,7 @@ The goal is to demonstrate data collection, transformation, and visualization sk
 
 * Provide insights and recommendations for movie industry stakeholders.
 
-
+  
 ## 🗂 Dataset Details
 Columns Used:
 
@@ -42,7 +42,7 @@ Columns Used:
 
 * Decade : Decade of each movie
 
-
+  
 ## 📊 Dashboard Features
 *   KPIs:
     * ⭐ Average Rating
@@ -72,8 +72,10 @@ Columns Used:
    * Slicers for Certificate and Decades
 
    * Dynamic KPIs and charts that update with filters
+      
+     ![Dashboard](https://github.com/Santosh96736/IMDb_Top_250_Movies/blob/main/Screenshot%202025-08-20%20175812.png)
 
-
+  
 ## 🔑 Key Insights
 *  Highest Rated Movie: The Shawshank Redemption.
 
@@ -85,7 +87,7 @@ Columns Used:
 
 *  Average Duration : 132 minutes
 
-
+  
 ## 💡 Recommendations
 *  Optimize Runtime Strategy: Balance movie length with audience engagement for better ratings.
 
@@ -93,7 +95,7 @@ Columns Used:
 
 *  Upsell Popular Movies: Create promotional campaigns around top-rated and top-voted movies.
 
-
+  
 ## 📂 Repository Details
 
 *  Repository Name: IMDb_Top_250_Movies
