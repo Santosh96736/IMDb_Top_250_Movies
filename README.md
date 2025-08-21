@@ -26,21 +26,21 @@ Columns Used:
 
 * Title : Name of the Movie
   
-* Rating : Rating of each Movie
+* Rating : IMDb Rating
 
-* Votes : Votes in text
+* Votes (Raw) : Votes in text format
  
 * Year : Release Year
 
-* Durations : Duration in text
+* Durations (Raw) : Duration in text format
 
-* Certification : Movie Certificate
+* Certification : Movie Certificate (e.g, R, PG-13)
 
-* Total_Votes : Total votes given by the public to each movie
+* Total Votes : Total votes given by the public to each movie
 
-* Total_Durations : Duration of each movie
+* Total Durations : Runtime of each movie
 
-* Decade : Decade of each movie
+* Decade : Grouping of movies
 
   
 ## 📊 Dashboard Features
@@ -73,7 +73,7 @@ Columns Used:
 
    * Dynamic KPIs and charts that update with filters
       
-     ![Dashboard](https://github.com/Santosh96736/IMDb_Top_250_Movies/blob/main/Screenshot%202025-08-20%20175812.png)
+     ![Dashboard Screenshot](https://github.com/Santosh96736/IMDb_Top_250_Movies/blob/main/Screenshot%202025-08-21%20221449.png))
 
   
 ## 🔑 Key Insights
